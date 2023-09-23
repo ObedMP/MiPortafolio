@@ -1,7 +1,7 @@
 .Footer{
   height: 6.5rem;
   width: 100%;
-  background: linear-gradient(to right, var(--black), var(--purple));
+  background: linear-gradient(to right, var(--purple), var(--blue));
   display: flex;
   justify-content: center;
   align-items: center;

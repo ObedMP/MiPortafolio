@@ -210,8 +210,8 @@ h1 {
 }
 
 .skill-spring {
-  width: 3.5rem;
-  height: 3.5rem;
+  width: 3rem;
+  height: 3rem;
   background: url("../../public/images/spring.png");
   background-size: contain;
   background-repeat: no-repeat;
