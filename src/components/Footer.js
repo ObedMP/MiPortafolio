@@ -3,7 +3,7 @@ import "./Footer.css";
 function Footer() {
   return (
     <div className="Footer">
-      <p>Created by Nicolas Francken | All rights reserved</p>
+      <p>Created by Diego Menéndez </p>
     </div>
   );
 }

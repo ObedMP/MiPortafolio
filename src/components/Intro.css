@@ -18,7 +18,7 @@ h1 {
   font-size: 3.7rem;
   margin: 0;
   letter-spacing: 2px;
-  background: linear-gradient(to right, var(--black), var(--purple));
+  background: linear-gradient(to right, var(--black), var(--blue));
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -36,7 +36,7 @@ h1 {
 }
 
 .intro-p span {
-  color: var(--purple);
+  color: var(--blue);
   font-weight: bold;
 }
 
@@ -65,11 +65,11 @@ h1 {
 .intro-img {
   width: 20rem;
   height: 20rem;
-  background: url("../../public/images/yo.jpg");
+  background: url("../../public/images/yo.jpeg");
   background-repeat: no-repeat;
-  background-size: 250%;
+  background-size: 180%;
   background-position-x: 37%;
-  background-position-y: 50%;
+  background-position-y: 40%;
   border-radius: 7rem;
   border: 3px solid var(--black);
 }
@@ -97,14 +97,14 @@ h1 {
   border-radius: 2rem;
   box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
     0 4px 6px -4px rgba(0, 0, 0, 0.1);
-  width: 37rem;
+  width: 45rem;
 }
 
 
 .skill-a {
-  width: 2.5rem;
-  height: 2.5rem;
-  background: url("../../public/images/js.png ");
+  width: 3.8rem;
+  height: 3.8rem;
+  background: url("../../public/images/java.png ");
   background-size: contain;
   background-repeat: no-repeat;
 }
@@ -112,7 +112,7 @@ h1 {
 .skill-b {
   width: 2.5rem;
   height: 2.5rem;
-  background: url("../../public/images/typescript.png ");
+  background: url("../../public/images/csharp.png ");
   background-size: contain;
   background-repeat: no-repeat;
 }
@@ -129,7 +129,7 @@ h1 {
 .skill-d {
   width: 2.5rem;
   height: 2.5rem;
-  background: url("../../public/images/nextjs.svg");
+  background: url("../../public/images/angular.svg");
   background-size: contain;
   background-repeat: no-repeat;
 }
@@ -139,7 +139,7 @@ h1 {
 .skill-e {
   width: 2.5rem;
   height: 2.5rem;
-  background: url("../../public/images/node.png");
+  background: url("../../public/images/spring.png");
   background-size: contain;
   background-repeat: no-repeat;
 }
@@ -157,7 +157,7 @@ h1 {
 .skill-g {
   width: 2.5rem;
   height: 2.5rem;
-  background: url("../../public/images/css-3.png");
+  background: url("../../public/images/pdi.png");
   background-size: contain;
   background-repeat: no-repeat;
 }
@@ -165,11 +165,78 @@ h1 {
 .skill-h {
   width: 2.5rem;
   height: 2.5rem;
-  background: url("../../public/images/redux.png");
+  background: url("../../public/images/python.png");
   background-size: contain;
   background-repeat: no-repeat;
 }
 
+.skill-i {
+  width: 3rem;
+  height: 3rem;
+  background: url("../../public/images/mysql.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.skill-j {
+  width: 3.5rem;
+  height: 3.5rem;
+  background: url("../../public/images/ploracle.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.skill-k {
+  width: 3.5rem;
+  height: 3.5rem;
+  background: url("../../public/images/serverpl.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.skill-l {
+  width: 3.5rem;
+  height: 3.5rem;
+  background: url("../../public/images/postgres.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.skill-pentaho {
+  width: 4rem;
+  height: 4rem;
+  background: url("../../public/images/pentaho.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.skill-spring {
+  width: 3.5rem;
+  height: 3.5rem;
+  background: url("../../public/images/spring.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.skill-git {
+  width: 3.5rem;
+  height: 3.5rem;
+  background: url("../../public/images/git.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.skill-selenium {
+  width: 3.5rem;
+  height: 3.5rem;
+  background: url("../../public/images/selenium.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.skill-jira {
+  width: 3.5rem;
+  height: 3.5rem;
+  background: url("../../public/images/jira.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
 @media only screen and (max-width: 1300px) {
   .intro-title {
     width: 30rem;

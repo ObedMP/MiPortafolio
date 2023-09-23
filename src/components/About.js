@@ -9,21 +9,17 @@ function About() {
       <div className="About-container-2">
         <div className="About-text">
           <div className="About-image"></div>
-          <h3>An enthusiast Web Developer &#128187;</h3>
+          <h3>Passionate Developer and Analyst  &#128187;</h3>
           <p>
-            As a Full-Stack Developer, I turn <span>ideas</span> into
-            <span> code</span>. I am capable of handling any obstacles,
-            challenges or problems. Being a <span>focused</span> and
-            <span> disciplined</span> person make me a wise choice. Using
-            <span> React/Next</span> for the Frontend and
-            <span> Node, Express</span> and
-            <span> SQL/NoSQL </span>
-            databases for the Backend, I am able to make
-            <span> attractive, interactive, useful</span> and
-            <span> professional </span>websites. <br />
-            In my free time, I love reading, going to the gym and trekking in
-            the woods. I think being in peace with myself is a very important
-            aspect when it comes to working in an efficient and tidy way.
+          I am passionate about <span>technology</span>, I like to develop systems 
+          as well as implement development methodologies. I am able to 
+          <span>handle any obstacle</span>, challenge or problem. Being a focused and 
+          disciplined person makes me a wise choice. My resilience and 
+          my <span>self-taught spirit</span> have led me to acquire practical knowledge 
+          in development in different programming languages, my solid 
+          foundation being Java for the backend and Angular for the frontend.
+          Sports, reading and exploration are activities that help me <span>develop </span>
+          my <span>technical skills</span> and <span>soft skills</span>.
           </p>
         </div>
       </div>

@@ -20,7 +20,7 @@ function Header() {
     <>
       <header className="header">
         <nav className="nav">
-          <h2 className="nav-h2">NICO</h2>
+          <h2 className="nav-h2">Diego Menéndez</h2>
           <ul className="nav-ul">
             <li>
               <Link

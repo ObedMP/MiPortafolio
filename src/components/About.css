@@ -1,7 +1,7 @@
 
 .About-container {
   box-sizing: border-box;
-  padding: 6.5rem 11rem 6.5rem 11rem;
+  padding: 6.5rem 11rem 10rem 11rem;
   background-color: rgb(237, 237, 237);
   display: flex;
   flex-direction: column;
@@ -28,12 +28,12 @@
 }
 
 .About-image {
-  background: url("../../public/images/yoo.jpg");
+  background: url("../../public/images/yoo.png");
   width: 10rem;
   height: 10rem;
   border-radius: 50%;
   background-size: cover;
-  background-position-y: 21%;
+  background-position-y: 15%;
   box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
     0 4px 6px -4px rgba(0, 0, 0, 0.1);
   box-sizing: border-box;

@@ -10,38 +10,47 @@ function Proyects() {
         <div className="proyect-1 proyect-container">
           <div className="left">
             <div className="top">
-              <h3 className="proyect-title">GYMATE &#128170;</h3>
+              <h3 className="proyect-title">Api Pedidos</h3>
               <p className="proyect-description">
-                A personalized landing page for an imaginary client. Beautiful
-                and minimalistic.
+              Collaborative Project in the Development of an Orders API 
+              with Spring Boot and JWT as authentication to the API requests,
+               Mysql was used as a database and it was deployed in Apache, 
+               testing with Mockito and Junit5.
               </p>
             </div>
             <div className="bottom">
               <h3>Tech used</h3>
               <div className="proyect-skills">
                 <div className="skill-a"></div>
-                <div className="skill-c"></div>
-                <div className="skill-g"></div>
+                <div className="skill-spring"></div>
               </div>
             </div>
           </div>
           <div className="right">
-            <a
+            {/*<a
               className="img-link"
               href="https://gymate-site.netlify.app/"
               target="_blank"
               rel="noreferrer"
             >
+            
               <div className="img-proyect-1"></div>
             </a>
+            */}
+
+            
             <div className="proyect-links">
+              {/*
               <a
                 href="https://gymate-site.netlify.app/"
                 target="_blank"
                 rel="noreferrer"
               >
+              
                 <i className="bx bx-sm bx-globe"></i>
               </a>
+          */}
+          
               <a
                 href="https://github.com/NicolasFrancken/GYMATE"
                 target="_blank"
