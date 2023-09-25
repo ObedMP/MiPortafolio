@@ -8,7 +8,7 @@ function Intro() {
           <h1>Java Developer</h1>
           <p className="intro-p">
             Hi, I'm <span>Diego Menéndez</span>. <br />A passionate FullStack 
-             Developer from El Salvador
+             Developer and QA Testing from El Salvador
           </p>
           <ul className="intro-ul">
             <li>
